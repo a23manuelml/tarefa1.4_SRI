@@ -35,4 +35,6 @@
         - Benskywalker.
 
             ![imaxe7](imaxes/solapt2.4.png)
-    
+
+
+**O penúltimo e último punto da tarefa, non se pode realizar debido á configuración do hypervisor virtualbox non permite**
